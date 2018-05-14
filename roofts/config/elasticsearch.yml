@@ -1,0 +1,7 @@
+cluster.name: "default-cluster"
+network.host: 0.0.0.0
+
+xpack.license.self_generated.type: basic
+
+bootstrap.memory_lock: true
+xpack.monitoring.enabled: false
